@@ -1,123 +1,42 @@
-body{
-    background-color: orange;
-    color: rgb(1, 1, 82);
+body {
+    font-size: 20px;
+    background: rgb(255, 255, 0);
+    color: #3b29dd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.comon{
-  color: green;
-  background-color: black;
-  border-radius: 5px;
+header img{
+    width: 100%;
+    
 }
 
-.text{
-  color: black;
+nav{
+   margin: 20px;
+   padding: 20px 10px;
+   border: 5px solid rgb(30, 33, 161);
+   text-decoration: none;
+   text-align: center;
 }
 
-.rar{
-  color: blue;
-  background-color: black;
-   border-radius: 5px;
+nav a {
+   margin: 20px;
+   font-size: 20px;
+   text-decoration: none;
+   color: rgb(37, 3, 231);
+   background-color: navajowhite;
+   border-radius: 10px;
+   padding: 10px;
+   border-bottom: 5px dashed red;
+
 }
 
-.epik{
-  background-color: black;
-  color: purple;
-   border-radius: 5px;
-
+footer {
+    padding: 10px;
+    text-align: center;
 }
 
-.legenbare{
-  background-color: black;
-  color: yellow;
-   border-radius: 5px;
+footer p {
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
 }
 
-.god{
-  background-color: black;
-  color: wheat;
-   border-radius: 5px;
-}
-
-.sekret{
-  background-color: wheat;
-  color: black;
-   border-radius: 5px;
-}
-
-.nyb{
-  background-color: brown;
-  color: black;
-  border-radius: 5px;
-}
-
-/*table img {
-  margin-right: 10px;
-}*/
-
-.pizaa{
-  
-}
-
-body{
-  text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-a{
-  text-decoration: none;
-  padding: 10px;
-  margin: 10px;
-  background-color: black;
-  color: yellowgreen;
-  border-radius: 10px;
-}
-
-.we{
-  background-color: blue;
-  color: red;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 5px;
-}
-.tar{
-  background-color: green;
-  color: wheat;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 5px;
-}
-
-.can{
-  background-color: blueviolet;
-  color: blue;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 5px;
-}
-
-.maryuhnom{
-  background-color: orangered;
-  color: aquamarine;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 5px;
-}
-
-.makar{
-  background-color: blue;
-  color: brown;
-  padding: 5px;
-  margin: 10px;
-  border-radius: 5px;
-}
-
-footer{
-  margin-top: 50px;
-  font-size: 20px;
-}
-
-.miwik{
-  background-color: black;
-  color: red;
-  border-radius: 5px;
-}
